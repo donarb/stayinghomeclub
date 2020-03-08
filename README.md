@@ -160,10 +160,9 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [Shopify Unite](https://www.shopify.com.au/partners/blog/unite-2020-update): moving to virtual event
 - [Shopify Pursuit (Melbourne and Mexico)](https://pursuit.shopify.com/): postponed, no date given
 - [Shoptalk](https://www.retaildive.com/news/shoptalk-postponed-until-september-on-coronavirus-concerns/573549/): Postponed until September
-- [STP Con](https://www.stpcon.com/important-stpcon-spring-2020-announcement-please-read/): cancelled
-- [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [SRECon Americas West](https://www.usenix.org/conferences/coronavirus): postponed until June
 - [Strata Data & AI](https://conferences.oreilly.com/strata-data-ai/stai-ca): merged with NY in September
+- [STP Con](https://www.stpcon.com/important-stpcon-spring-2020-announcement-please-read/): cancelled
 - [SUSECON 2020](https://www.suse.com/c/reimagining-susecon-2020/): moving to virtual event
 - [SXSW](https://www.sxsw.com/2020-event-update/): cancelled
 - [TED](https://www.axios.com/scoop-coronavirus-forces-ted-conference-to-delay-or-go-digital-731109d7-8178-49b4-8a16-321f14affe1f.html): post-poning or going online-only
